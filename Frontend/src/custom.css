@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "Wanted Sans Variable";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 400 1000;
+    src: url("./assets/fonts/WantedSansVariable.woff2")
+        format("woff2-variations");
+}
+
+* {
+    font-family: "Wanted Sans Variable" !important;
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+}
+
+@media screen and (min-width: 721px) {
+}
+
+@media screen and (max-width: 720px) {
+}

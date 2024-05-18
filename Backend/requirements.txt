@@ -1,0 +1,10 @@
+flask
+flask_cors
+json
+operator
+dotenv
+langchain_core
+langchain_upstage
+langchain_community
+langchain_text_splitters
+youtube_transcript_api

@@ -1,0 +1,4 @@
+Frontend/node_modules
+Backend/__pycache__
+Backend/.env
+.DS_Store
